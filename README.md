@@ -13,6 +13,7 @@ Uma lista de Blogs, referências técnicas, bibliotecas, recursos e coisas incri
 * [Raphael de Almeida](https://github.com/raphaeldealmeida) - http://raphaeldealmeida.net
 * [Jonathas Ribeiro](http://jonathas.com) - http://jonathas.com
 * [Igor De Paula](http://blog.adminweb.com.br) ([github](https://github.com/igordepaula)) - http://blog.adminweb.com.br 
+* [Fabio Farias](http://fabiofarias.com.br/aulas) ([github](https://github.com/frf)) - http://fabiofarias.com.br
 
 ## Open Source
 *Nós apoiamos e contribuímos para os seguintes projetos open source:*
